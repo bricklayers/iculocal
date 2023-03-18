@@ -1,0 +1,8 @@
+/build
+.idea/
+gradle/
+gradlew
+gradlew.bat
+/test
+/androidTest
+proguard-rules.pro
